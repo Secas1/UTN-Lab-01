@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1556031605 source:c:\users\alumno\desktop\lab2304\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fSector.h"
+	"fEmployee.h"
+
+1556031107 source:c:\users\alumno\desktop\lab2304\fsector.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fSector.h"
+
+1556031670 c:\users\alumno\desktop\lab2304\fsector.h
+
+1556031320 source:c:\users\alumno\desktop\lab2304\femployee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fEmployee.h"
+
+1556031282 c:\users\alumno\desktop\lab2304\femployee.h
+

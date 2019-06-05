@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1554817963 source:c:\users\alumno\desktop\clase 0904 estructuras\fcarga.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	<ctype.h>
+
+1554820506 c:\users\alumno\desktop\clase 0904 estructuras\funciones.h
+
+1554820683 source:c:\users\alumno\desktop\clase 0904 estructuras\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
