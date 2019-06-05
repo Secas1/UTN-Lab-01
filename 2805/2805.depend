@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1559049042 source:c:\users\alumno\desktop\2805\load.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"load.h"
+
+1559044470 c:\users\alumno\desktop\2805\load.h
+
+1559049020 source:c:\users\alumno\desktop\2805\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"load.h"
+
